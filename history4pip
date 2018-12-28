@@ -1,0 +1,12 @@
+python3 --version
+sudo apt update
+sudo apt install python3-pip
+sudo pip3 install --upgrade setuptools
+sudo pip3 install libxml2
+sudo apt-get install libxml2-dev libxslt1-dev
+sudo apt-get install python-dev
+sudo apt-get install zlib1g-dev
+sudo pip3 install lxml
+sudo pip3 install scrapy
+sudo pip3 install openpyxl
+
